@@ -1,3 +1,4 @@
-# Цветочный лендинг
+# Flowers Landing
+Landing for small flowers bussiness. 
 
-### [Перейти](https://faynco.github.io/flowers/)
+### [Visit Landing](https://egorrya.github.io/flowers/)
